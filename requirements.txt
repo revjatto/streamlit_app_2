@@ -4,3 +4,4 @@ numpy==1.21.4
 matplotlib==3.5.1
 altair==4.1.0
 plotly-express==0.4.1
+pillow==8.4.0
